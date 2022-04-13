@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:900i');
+
+
+.logo {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+  left: 0;
+}
+
+#navbar {
+  display: flex;
+  z-index: 1;
+  position: fixed;
+  background-color: transparent;
+  flex-direction: row;
+ 
+}
+
+
+.map-container {
+  display: flex;
+ min-width: 105vh;
+ min-height: 100vh;
+ overflow-x: hidden;
+ z-index: 0;
+
+
+  
+  }
+
+ 
+
+  #searchbar {
+    display: flex;
+    z-index: 1;
+    width: 30rem;
+     
+ 
+    
+  }
+
+  
+ 
+
+ .mapboxgl-ctrl-geocoder {
+  display: flex;
+  width: 22rem !important; 
+  
+  
+  
+  
+  
+ }
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+ 
